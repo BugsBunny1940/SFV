@@ -1,3 +1,4 @@
+![cooltext390742889032509](https://user-images.githubusercontent.com/87514643/129218919-c66851cb-afd9-4961-8764-e7b944396fbc.png)
 # Introduction
 Powerful Verifier For The SF DedSec Community!
 
